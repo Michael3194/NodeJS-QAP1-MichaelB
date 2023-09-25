@@ -1,10 +1,10 @@
-//      Node.js HTTP Server
-//      Last updated: 2023-09-25
-//      Author: Michael Bennett
+//  Node.js HTTP Server
+//  Last updated: 2023-09-25
+//  Author: Michael Bennett
 
 /*
-        This Node.js file creates an HTTP server that serves HTML files based
-        on the URL path. The server listens on port 3000, and handles the routes "/" and "/test"
+    This Node.js file creates an HTTP server that serves HTML files based
+    on the URL path. The server listens on port 3000, and handles the routes "/" and "/test"
 */
 
 /* ---------------------------------------------------------------------------------------------- */

@@ -1,6 +1,6 @@
-// Using Node.js OS Module
-// Last Updated: 2023-09-25
-// Author: Michael Bennett
+//   Using Node.js OS Module
+//   Last Updated: 2023-09-25
+//   Author: Michael Bennett
 
 /* 
     In this os.js file, we use the Node.js OS module to access information about
@@ -8,6 +8,7 @@
 */
 
 /* ---------------------------------------------------------------------------------------------- */
+
 
 const os = require('os'); // Import the os module
 
