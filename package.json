@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-qap1-michaelb",
+  "version": "1.0.0",
+  "description": "QAP1 - Working with NodeJS Common Core and NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Bennett",
+  "license": "CC0-1.0"
+}
