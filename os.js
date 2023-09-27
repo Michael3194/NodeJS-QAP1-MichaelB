@@ -3,6 +3,7 @@
 //   Author: Michael Bennett
 
 /* 
+    Task 1 Step 2.a - Say how module would be used.
     In this os.js file, we use the Node.js OS module to access information about
     the operating system and display the information to the console
 */

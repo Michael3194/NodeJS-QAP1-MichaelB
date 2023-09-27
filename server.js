@@ -3,6 +3,7 @@
 //  Author: Michael Bennett
 
 /*
+    Task 1 Step 2.a - Say how module would be used.
     This Node.js file creates an HTTP server that serves HTML files based
     on the URL path. The server listens on port 3000, and handles the routes "/" and "/test"
 */

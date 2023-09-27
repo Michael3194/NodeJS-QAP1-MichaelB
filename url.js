@@ -3,6 +3,7 @@
 //  Author: Michael Bennett
 
 /* 
+    Task 1 Step 2.a - Say how module would be used.
     In this url.js file, we use the Node.js URL module to parse a URL, modify query parameters, and display the updated URL to the console
 */
 

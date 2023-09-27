@@ -3,6 +3,7 @@
 //  Author: Michael Bennett
 
 /* 
+    Task 1 Step 2.a - Say how module would be used.
     In this file we use the validator package to validate email 
     addresses, urls, and numeric strings
 */
